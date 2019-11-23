@@ -165,6 +165,9 @@ Lookup Watcher generates a log file is created in $SPLUNK_HOME/var/log/splunk/ a
 Feel free to open an issue on github or use the contact author on the SplunkBase link and I will try to get back to you when possible, thanks!
 
 ## Release Notes
+### 2.5.5
+Lookup Watcher now imports six from lib directory (allows this to work on older Splunk versions)
+
 ### 2.5.4
 Re-release of 2.5.3 due to strange issue in SplunkBase
 
