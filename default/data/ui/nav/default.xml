@@ -207,7 +207,8 @@
 			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20KVStore%20Or%20Conf%20Replication%20Issues%20Are%20Occurring">KVStore Or Conf Replication Issues Are Occurring</a>
 			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20Long%20filenames%20may%20be%20causing%20issues">Long filenames may be causing issues</a>						
 			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20Script%20failures%20in%20the%20last%20day">Script failures in the last day</a>
-			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20SHCluster%20Artifact%20Replication%20Issues">SHCluster Artifact Replication Issues</a>			
+			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20SHCluster%20Artifact%20Replication%20Issues">SHCluster Artifact Replication Issues</a>
+			<a href="/app/SplunkAdmins/alert?s=%2FservicesNS%2Fnobody%2FSplunkAdmins%2Fsaved%2Fsearches%2FSearchHeadLevel%20-%20SHC%20Captain%20unable%20to%20establish%20common%20bundle">SearchHeadLevel - SHC Captain unable to establish common bundle</a>
 		</collection>	
 		<collection label="Non best-practice">
 			<collection label="Realtime searches">

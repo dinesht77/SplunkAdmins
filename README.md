@@ -167,6 +167,11 @@ Feel free to open an issue on github or use the contact author on the SplunkBase
 ## Release Notes
 ### 2.5.5
 Lookup Watcher now imports six from lib directory (allows this to work on older Splunk versions)
+Minor update to props.conf for splunk:search:info as in 7.3 auto-finalized messages are now INFO level
+
+New alert:
+
+`SearchHeadLevel - SHC Captain unable to establish common bundle`
 
 ### 2.5.4
 Re-release of 2.5.3 due to strange issue in SplunkBase
