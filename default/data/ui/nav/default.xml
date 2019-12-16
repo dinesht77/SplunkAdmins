@@ -262,6 +262,7 @@
                         <saved name="SearchHeadLevel - Detect changes to knowledge objects directory" />
                         <saved name="SearchHeadLevel - Detect changes to knowledge objects non-directory" />
 			<saved name="SearchHeadLevel - Lookup updates within SHC" />
+                        <saved name="SearchHeadLevel - SHC conf log summary" />
 			<view name="knowledge_objects_by_app" />
 			<view name="lookups_in_use_finder" />
 		</collection>	

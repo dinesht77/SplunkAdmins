@@ -173,6 +173,10 @@ New alert:
 
 `SearchHeadLevel - SHC Captain unable to establish common bundle`
 
+New report:
+
+`SearchHeadLevel - SHC conf log summary`
+
 ### 2.5.4
 Re-release of 2.5.3 due to strange issue in SplunkBase
 
