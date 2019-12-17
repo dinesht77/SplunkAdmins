@@ -177,6 +177,10 @@ New report:
 
 `SearchHeadLevel - SHC conf log summary`
 
+Updated dashboard:
+
+`indexer_max_data_queue_sizes_by_name`
+
 ### 2.5.4
 Re-release of 2.5.3 due to strange issue in SplunkBase
 
